@@ -4,8 +4,8 @@
   text-align: center;
 }
 
-a:hover {
-  background-image: "images/cheshire.jpg";
+.a:hover {
+  background-color: yellow;
 }
 
 .jumbotron {
