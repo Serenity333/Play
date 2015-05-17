@@ -1,6 +1,11 @@
 .container {
   height: 1500px;
   width: 1500px;
+  text-align: center;
+}
+
+.container:hover {
+  background-img: "cheshire.jpg"
 }
 
 .jumbotron {
