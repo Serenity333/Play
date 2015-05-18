@@ -14,11 +14,13 @@ h1 {
 }
 
 #one {
+  text-align: center;
   height: 450px;
   width: 600px;
 }
 
 #two {
+  text-align: center;
   height: 450px;
   width: 600px;
   position: fixed;
