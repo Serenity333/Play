@@ -10,6 +10,11 @@
   margin-bottom: 0px;
 }
 
+h1 {
+  font-size: 150px;
+  font-family: 'Playball', cursive;
+}
+
 p :hover {
   background-image: "images/cheshire.png";
 }
