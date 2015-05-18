@@ -1,8 +1,8 @@
 $(document).ready(function() {
-  $(#one).click(function() {
-  $("#one").fadeOut(1000);
+  $(#three).click(function() {
+  $("#three").fadeOut(1000);
   });
-  $(#two).click(function() {
-    $("#two").fadeIn(1000);
+  $(#four).click(function() {
+    $("#four").fadeIn(1000);
     });
 });
